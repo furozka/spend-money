@@ -1,0 +1,19 @@
+admin page yapılmadı
+recipe styling yapılacak
+animated numbers tekrar bakılabilir her seferde 0 dan animasyon başlıyor
+ürün fotoğrafları ve diğer özellikleri eklenmeli
+backend tarafına ürünlerin taşınması
+işlemlerin backende iletilip backendden alınması
+
+
+------------------------------------
+spend your life span projesinde
+
+admin page yapıp product ekleme, düzenleme
+paranın artıp azalma efekti
+ürün detay sayfası
+zamanın gün ay yıl saat saniye olarak döndürülmesi
+global butonlar için sağ alt tarafa sticky tuş paneli konması react-icons
+global butonlarda sepetin olması, takip edilen ürünlerin olması
+
+lifeSpan değerinin ayarlanabiliyor olması için bir page kullanıcı 70 yıllık bir ömür girerse ona göre lifeSpan değeri ataması.
